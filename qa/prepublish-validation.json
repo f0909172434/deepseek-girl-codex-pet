@@ -1,0 +1,26 @@
+{
+  "manifest_name_codepoints": [
+    "U+0064",
+    "U+0065",
+    "U+0065",
+    "U+0070",
+    "U+0073",
+    "U+0065",
+    "U+0065",
+    "U+006B",
+    "U+5A18"
+  ],
+  "manifest_name_ok": true,
+  "readme_title_ok": true,
+  "readme_dialog_ok": true,
+  "readme_asset_links_ok": true,
+  "gif_frames": 6,
+  "gif_size": [
+    960,
+    540
+  ],
+  "gif_bytes": 221666,
+  "atlas_bytes": 2836976,
+  "atlas_sha256": "234f24a97c18195a00c6093da0090773e675993c169e92e7e13a24c37b323fa2",
+  "ok": true
+}
