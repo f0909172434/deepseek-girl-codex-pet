@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/readme-hero.svg" alt="DeepSeek Girl / Codex project header" width="100%" />
+</p>
+
 # deepseek娘codex寵物
 
 一隻為 Codex Desktop 製作的開源 v2 動畫寵物。她有完整的工作狀態動畫、16 個觀看方向，待機時會拿著寫有簡體「区」的板子，並問：
