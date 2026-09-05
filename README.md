@@ -21,6 +21,12 @@
 - 待機文字特別放大，板子「区」與對話「凶」刻意不同
 - 已通過圖集尺寸、透明背景、色邊與未使用格驗證
 
+## 固定版本下載
+
+[0.1.0 安裝包與 SHA-256](https://github.com/f0909172434/deepseek-girl-codex-pet/releases/tag/v0.1.0) · [驗證、重現與還原](RELEASE.md)
+
+`0.1.0` 是分發版本；pet v2 是動畫格式。
+
 ## 安裝
 
 ### 一鍵安裝（Windows PowerShell）
