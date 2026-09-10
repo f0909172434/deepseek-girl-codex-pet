@@ -91,3 +91,9 @@ powershell -ExecutionPolicy Bypass -File .\scripts\verify.ps1
 本專案以 [MIT License](LICENSE) 開源。
 
 這是社群製作的非官方專案，與 DeepSeek、OpenAI 或 Codex 團隊沒有隸屬、贊助或背書關係。`DeepSeek`、`OpenAI` 與 `Codex` 等名稱及商標歸各自權利人所有。
+
+## 共用圖集維護
+
+此 repository 的 `pet/spritesheet.webp` 是 DeepSeek Girl 兩個 host 的圖集維護來源。[DeepSeek Harness adapter](https://github.com/f0909172434/dsh-deepseek-girl-pet) 以完整 commit、SHA-256 與大小固定來源，保留本機副本，並提供可重跑的同步工具。圖集只在此修改與執行 QA；Harness 的 adapter、套件與安裝網址獨立保留。
+
+既有 v0.1.0 release 與安裝包保持不變；來源治理更新不改寫過去的發布證據。
